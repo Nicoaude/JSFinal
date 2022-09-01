@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "tipo": "procesador",
+        "modelo": "AMD Ryzen 7 5800X",
+        "precio": 40000,
+        "img": "images/proce-1.png"
+    },
+    {
+        "id": 2,
+        "tipo": "procesador",
+        "modelo": "INTEL I7-10700K",
+        "precio": 50000,
+        "img": "images/proce-2.png"
+    },
+    {
+        "id": 3,
+        "tipo": "cooler",
+        "modelo": "CPU Water Cooler EVGA CLC 240 RGB",
+        "precio": 17800,
+        "img": "images/cooler-1.png"
+    },
+    {
+        "id": 4,
+        "tipo": "cooler",
+        "modelo": "CPU Water Cooler Thermaltake TH360 ARGB",
+        "precio": 22700,
+        "img": "images/cooler-2.png"
+    },
+    {
+        "id": 5,
+        "tipo": "motherboard",
+        "modelo": "Motherboard Gigabyte A520M DS3H AC AM4",
+        "precio": 17000,
+        "img": "images/mother-1.png"
+    },
+    {
+        "id": 6,
+        "tipo": "motherboard",
+        "modelo": "Motherboard Gigabyte B550 Aorus Elite V2 AM4",
+        "precio": 33600,
+        "img": "images/mother-2.png"
+    },
+    {
+        "id": 7,
+        "tipo": "ram",
+        "modelo": "Memoria RAM OLOY OWL Black RGB 8GB 3200Mhz DDR4",
+        "precio": 6300,
+        "img": "images/ram-1.png"
+    },
+    {
+        "id": 8,
+        "tipo": "ram",
+        "modelo": "Memoria RAM Kingston Fury RGB 8GB 3466Mhz DDR4",
+        "precio": 8200,
+        "img": "images/ram-2.png"
+    },
+    {
+        "id": 9,
+        "tipo": "placa de video",
+        "modelo": "Placa de Video MSI Nvidia GeForce RTX 3070 Ti GAMING X TRIO 8GB GDDR6X LHR",
+        "precio": 224000,
+        "img": "images/placa-1.png"
+    },
+    {
+        "id": 10,
+        "tipo": "placa de video",
+        "modelo": "Placa de Video MSI Nvidia GeForce RTX 3080 GAMING Z TRIO 12GB GDDR6X LHR",
+        "precio": 303400,
+        "img": "images/placa-2.png"
+    },
+    {
+        "id": 11,
+        "tipo": "disco ssd",
+        "modelo": "Disco Solido SSD 480GB Kingston A400 SATA III",
+        "precio": 8400,
+        "img": "images/disco-1.png"
+    },
+    {
+        "id": 12,
+        "tipo": "disco ssd",
+        "modelo": "Disco Solido SSD 960GB Kingston A400 SATA III",
+        "precio": 13500,
+        "img": "images/disco-2.png"
+    },
+    {
+        "id": 13,
+        "tipo": "gabinete",
+        "modelo": "Gabinete Xigmatek Trio 4 Fanes Fixed RGB",
+        "precio": 6700,
+        "img": "images/gabinete-1.png"
+    },
+    {
+        "id": 14,
+        "tipo": "gabinete",
+        "modelo": "Gabinete Cooler Master Masterbox MB530P RGB",
+        "precio": 15100,
+        "img": "images/gabinete-2.png"
+    },
+    {
+        "id": 15,
+        "tipo": "fuente",
+        "modelo": "Fuente 600W Redragon RPGS GC-PS002 80 PLUS Bronze",
+        "precio": 7400,
+        "img": "images/fuente-1.png"
+    },
+    {
+        "id": 16,
+        "tipo": "fuente",
+        "modelo": "Fuente 750W EVGA GQ 80 PLUS Gold Semi Modular",
+        "precio": 31000,
+        "img": "images/fuente-2.png"
+    }
+]
